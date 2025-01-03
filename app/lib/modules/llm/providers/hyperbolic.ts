@@ -35,7 +35,7 @@ export default class HyperbolicProvider extends BaseProvider {
       name: 'Qwen/QwQ-32B-Preview',
       label: 'QwQ-32B-Preview',
       provider: 'Hyperbolic',
-      maxTokenAllowed: 8192,
+      maxTokenAllowed: 8000,
     },
     {
       name: 'Qwen/Qwen2-VL-72B-Instruct',
