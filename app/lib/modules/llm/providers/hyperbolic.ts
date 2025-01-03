@@ -26,10 +26,10 @@ export default class HyperbolicProvider extends BaseProvider {
       maxTokenAllowed: 8192,
     },
     {
-      name: 'deepseek-ai/DeepSeek-V2.5',
+      name: 'deepseek-ai/DeepSeek-V3',
       label: 'DeepSeek-V2.5',
       provider: 'Hyperbolic',
-      maxTokenAllowed: 8192,
+      maxTokenAllowed: 8000,
     },
     {
       name: 'Qwen/QwQ-32B-Preview',
